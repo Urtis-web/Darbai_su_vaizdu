@@ -23,5 +23,5 @@ def funkcija():                                # pradedam funkcija
     return(nauja_eilute)                       # grazinam galutine reiksme i funkcija()
 bum = funkcija()                               #
 r = sorted(bum)                                # r kintamajam priskiriamas naujas (bum surusiuotas) masyvas
-print(r)                                       # isrykiuotas masyvas isvedamas i ekrana
+print(r)                                        # isrykiuotas masyvas isvedamas i ekrana
 
